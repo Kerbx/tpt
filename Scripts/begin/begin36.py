@@ -1,3 +1,4 @@
+# Begin36 Прохоренков ИСП-211
 velocityFirst = float(input())
 velocitySecond = float(input())
 s = float(input())

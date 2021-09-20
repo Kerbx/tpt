@@ -1,3 +1,4 @@
+# Begin33 Прохоренков ИСП-211
 someWeight = float(input())
 costOfSomeWeight = float(input())
 costOfOneKilo = costOfSomeWeight / someWeight

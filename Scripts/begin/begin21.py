@@ -1,3 +1,4 @@
+# Begin21 Прохоренков ИСП-211
 point1 = (float(input()), float(input()))
 point2 = (float(input()), float(input()))
 point3 = (float(input()), float(input()))

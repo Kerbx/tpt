@@ -1,3 +1,4 @@
+# Begin34 Прохоренков ИСП-211
 someWeightCandy = float(input())
 someWeightIris = float(input())
 costOfSomeWeightCandy = float(input())

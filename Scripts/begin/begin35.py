@@ -1,3 +1,4 @@
+# Begin35 Прохоренков ИСП-211
 velocitySelf = float(input())
 velocityRiver = float(input())
 timeLake = float(input())

@@ -1,3 +1,4 @@
+# Begin39 Прохоренков ИСП-211
 a = float(input())
 b = float(input())
 c = float(input())
