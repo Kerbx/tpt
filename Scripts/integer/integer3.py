@@ -1,1 +1,1 @@
-print(float(input()) // 1024)
+print(int(input()) // 1024)

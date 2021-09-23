@@ -1,1 +1,1 @@
-print(float(input()) // 100)
+print(int(input()) // 100)

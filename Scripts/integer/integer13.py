@@ -1,2 +1,2 @@
 a = int(input())
-print(str(a % 100) + str(a // 100))
+print(int(str(a % 100) + str(a // 100)))
