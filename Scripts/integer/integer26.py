@@ -1,2 +1,5 @@
 a = int(input())
-print((a + 1) % 7)
+if (a + 1) % 7 == 0:
+    print(7)
+else:
+    print((a + 1) % 7)
