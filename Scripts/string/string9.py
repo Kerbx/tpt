@@ -1,0 +1,1 @@
+print((input() + input()) * (int(int(input()) / 2)))
