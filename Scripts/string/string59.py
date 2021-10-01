@@ -5,6 +5,4 @@ for i in s:
         k = i
         break
 
-print(k)
-
 print(k.split(sep='.')[-1])

@@ -1,16 +1,16 @@
-open_to_close = {'{': '}', '[': ']', '(': ')'}
-close_to_open = {v: k for k, v in open_to_close.items()}
+openToClose = {'{': '}', '[': ']', '(': ')'}
+closeToOpen = {v: k for k, v in openToClose.items()}
  
 text = input()
  
 stack = []
 for i, char in enumerate(text, 1):
-    if char in open_to_close:
+    if char in openToClose:
         stack.append((i, char))
-    elif char in close_to_open:
+    elif char in closeToOpen:
         if len(stack):
             _, open_bracket = stack.pop()
-            if open_bracket != close_to_open[char]:
+            if open_bracket != closeToOpen[char]:
                 print(i)
                 break
         else:

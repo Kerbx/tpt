@@ -5,4 +5,4 @@ for i in s:
     if i != '':
         k += i + ' '
 
-print(k)
+print(k.strip())
