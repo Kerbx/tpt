@@ -1,3 +1,4 @@
+# boolean34 Прохоренков ИСП-211
 x = int(input())
 y = int(input())
 

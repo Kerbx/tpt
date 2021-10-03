@@ -1,3 +1,4 @@
+# boolean29 Прохоренков ИСП-211
 x = float(input())
 y = float(input())
 x1 = float(input())
