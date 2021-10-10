@@ -1,3 +1,4 @@
+# if30 Прохоренков Егор ИСП-211
 x = int(input())
 
 description = ''
@@ -7,7 +8,7 @@ if 0 < x < 9:
 elif 9 < x < 99:
     description += '2-number'
 elif x > 99:
-    description += '3-mumber'
+    description += '3-number'
 
 if x % 2 == 0:
     description += ' even'

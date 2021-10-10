@@ -1,3 +1,4 @@
+# if18 Прохоренков Егор ИСП-211
 a = float(input())
 b = float(input())
 c = float(input())

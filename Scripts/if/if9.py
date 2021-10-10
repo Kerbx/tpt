@@ -1,3 +1,4 @@
+# if9 Прохоренков Егор ИСП-211
 a = float(input())
 b = float(input())
 
