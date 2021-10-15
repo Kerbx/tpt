@@ -1,3 +1,4 @@
+# for36 Прохоренков Егор ИСП-211.
 n = float(input())
 k = float(input())
 

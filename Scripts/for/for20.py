@@ -1,3 +1,4 @@
+# for20 Прохоренков Егор ИСП-211.
 n = float(input())
 
 _sumFactor = 0

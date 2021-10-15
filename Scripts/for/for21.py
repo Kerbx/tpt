@@ -1,3 +1,4 @@
+# for21 Прохоренков Егор ИСП-211.
 import math
 
 n = int(input())

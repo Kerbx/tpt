@@ -1,3 +1,4 @@
+# for27 Прохоренков Егор ИСП-211.
 x = float(input())
 n = int(input())
 

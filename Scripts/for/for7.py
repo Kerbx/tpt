@@ -1,3 +1,4 @@
+# for7 Прохоренков Егор ИСП-211.
 a = int(input())
 b = int(input())
 _sum = 0

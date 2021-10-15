@@ -1,3 +1,4 @@
+# for22 Прохоренков Егор ИСП-211.
 import math
 
 x = float(input())
