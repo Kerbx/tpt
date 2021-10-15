@@ -4,7 +4,7 @@ n = int(input())
 
 _sum = 0
 
-for i in range(n + 1):
-    _sum += a * n
+for i in range(0, n + 1):
+    _sum += a ** i
 
 print(_sum)

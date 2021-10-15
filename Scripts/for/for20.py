@@ -1,10 +1,10 @@
 # for20 Прохоренков Егор ИСП-211.
-n = float(input())
+n = int(input())
 
-_sumFactor = 0
+_sumFactor = 0.0
 
 for i in range(1, int(n + 1)):
-    factor = 1
+    factor = 1.0
     for p in range(1, int(i + 1)):
         factor *= p
     _sumFactor += factor
