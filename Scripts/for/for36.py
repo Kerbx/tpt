@@ -1,8 +1,8 @@
 # for36 Прохоренков Егор ИСП-211.
-n = float(input())
-k = float(input())
+n = int(input())
+k = int(input())
 
-_sum = 0
+_sum = 0.0
 
 for i in range(int(n + 1)):
     _sum += i ** k
