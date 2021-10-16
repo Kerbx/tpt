@@ -1,7 +1,7 @@
 n = int(input())
 k = 0
 
-while n > 3 ** k:
+while 3 ** k < n + 1:
     k += 1
 
 print(k + 1)

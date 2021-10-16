@@ -1,6 +1,6 @@
 n = int(input())
 
-while n >= 0:
+while n > 0:
     n -= 3
 
 if n == 0:
